@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.dronesoccerground",                              
+  "displayName": "Drone Soccer Ground",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Just some ground image and dimension of a drone soccer field.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2023_02_16_DroneSoccerGround.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
